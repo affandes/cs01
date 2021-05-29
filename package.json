@@ -1,0 +1,17 @@
+{
+  "name": "cs01",
+  "version": "1.0.0",
+  "description": "Computer Science - Case study 01 - Mencari angka!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "javascript"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT",
+  "dependencies": {}
+}
